@@ -1,4 +1,4 @@
-# SNB Coop Project 2 - Loan Eligibility Classification
+# SNB Coop Project 2 - Loan Eligibility System (Binary Classification)
 
 ## Models Used
 
