@@ -1,14 +1,24 @@
-# 🏦 SNB Coop Project 2 - Loan Eligibility System 💳
+<!DOCTYPE html>
+<html lang="en">
 
-![SNB Logo](assets/logo.png)
-
-## 🔍 Models Used
-
-- 🖥 **Support Vector Machine (SVM)** - RBF Kernel
-- 🖥 **Support Vector Machine (SVM)** - Linear Kernel
-- 📈 **Logistic Regression**
-- 🌲 **Random Forest**
-
----
-
-This project focuses on classifying **loan eligibility** using advanced **machine learning models**. For more details, refer to the project documentation.
+<body>
+    <div class="container">
+        <div class="logo.png">
+            <img src="logo.png" alt="SNB Logo">
+        </div>
+        <h1>&#127974; SNB Coop Project 2 - Loan Eligibility System &#128179;</h1>
+        <h2>&#128202; Models Used</h2>
+        <ul>
+            <li>&#128187; <strong>Support Vector Machine (SVM)</strong> - RBF Kernel</li>
+            <li>&#128187; <strong>Support Vector Machine (SVM)</strong> - Linear Kernel</li>
+            <li>&#128200; <strong>Logistic Regression</strong></li>
+            <li>&#127795; <strong>Random Forest</strong></li>
+        </ul>
+        <hr>
+        <p>
+            This project focuses on classifying <strong>loan eligibility</strong> using advanced <strong>machine learning models</strong>.
+            For more details, refer to the project documentation.
+        </p>
+    </div>
+</body>
+</html>
