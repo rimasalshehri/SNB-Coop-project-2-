@@ -29,8 +29,5 @@
                 <li><strong>Miaad Alsulami</strong></li>
                 <li><strong>Khalid Nimri</strong></li>
 
-            </ul>
-        </div>
-    </div>
 </body>
 </html>
